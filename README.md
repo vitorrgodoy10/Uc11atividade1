@@ -1,4 +1,4 @@
-# 💻 Nome do Projeto 
+# 💻  Projeto Git UC11 
 
 Leiloes TDS - atividade 1 
 ## Explicação do projeto 
